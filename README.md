@@ -1,1 +1,2 @@
-# Transliteration:(english-hindi)
+# Transliteration:
+(english to hindi)
